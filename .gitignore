@@ -2,6 +2,7 @@
 
 # dependencies
 /studentapp/node_modules
+/scorecalculatorapp/node_modules
 /.pnp
 .pnp.js
 
