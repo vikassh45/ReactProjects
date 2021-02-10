@@ -1,9 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/studentapp/node_modules
-/scorecalculatorapp/node_modules
-/shoppingapp/node_modules
+/node_modules
 /.pnp
 .pnp.js
 
