@@ -8,6 +8,11 @@
 /myfirstreact/node_modules
 /cricketapp/node_modules
 /officespacerentalapp/node_modules
+/bloggerapp/node_modules
+/eventexamplesapp/node_modules
+/mailregisterapp/node_modules
+/ticketbookingapp/node_modules
+/ticketraisingapp/node_modules
 /.pnp
 .pnp.js
 
