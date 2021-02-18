@@ -1,5 +1,5 @@
 import React from "react";
-import  'C:/Users/Windows/Desktop/Cognizant/ReactProjects/scorecalculatorapp/src/Stylesheets/mystyle.css'
+import '../Stylesheets/mystyle.css'
 
 
 const percentToDecimal = (decimal) => {
